@@ -124,7 +124,7 @@
             this.tabPage1.Margin = new Padding(3, 2, 3, 2);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new Padding(3, 2, 3, 2);
-            this.tabPage1.Size = new Size(934, 809);
+            this.tabPage1.Size = new Size(192, 72);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "EsportaOre";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -135,7 +135,7 @@
             this.form11.Dock = DockStyle.Fill;
             this.form11.Location = new Point(3, 2);
             this.form11.Name = "form11";
-            this.form11.Size = new Size(928, 805);
+            this.form11.Size = new Size(186, 68);
             this.form11.TabIndex = 0;
             // 
             // tabPage3
@@ -167,7 +167,7 @@
             this.tabPage4.Padding = new Padding(3);
             this.tabPage4.Size = new Size(934, 809);
             this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "tabPage4";
+            this.tabPage4.Text = "Tickety";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // form12
